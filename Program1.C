@@ -7,7 +7,7 @@ int main()
    printf("Enter the number of prime numbers required\n");
    scanf("%d",&n);
  
-   if ( n >= 1 )
+   if ( n >= 10 )
    {
       printf("First %d prime numbers are :\n",n);
       printf("2\n");
